@@ -15,7 +15,7 @@ public class AngleUnitConverter {
                 String[] type = new String[rows];
                
                 for (int i = 0; i < rows; i++) {
-                        number[i] = sc.nextDouble();
+                        number[i] = sc.nextInt();
                         type[i] = sc.next();
                 }
                
